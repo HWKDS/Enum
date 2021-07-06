@@ -9,5 +9,5 @@ and type the ip of the box
 
 
 
-# If you get any problem with the box contact
+# If you get any problem with the tool contact
 https://twitter.com/KDSAMF 
